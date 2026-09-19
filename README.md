@@ -5,4 +5,4 @@ The process includes data inspection, missing-value checks, outlier treatment, f
 
 After cleaning the dataset, the analysis shows that most numerical variables exhibit very weak linear relationships with churn, with correlations below 1%. This makes the dataset a useful case study in recognizing data limitations and avoiding overinterpretation. The project emphasizes the value of EDA as a diagnostic tool for understanding whether a dataset is structurally suitable for modelling.
 
-The repository serves as a reference for performing transparent, responsible analysis and documenting results even when predictive relationships are minimal—an essential part of real-world data science practice.
+The repository serves as a reference for performing transparent, responsible analysis and documenting results even when predictive relationships are minimal in an essential part of real-world data science practice.
